@@ -2,7 +2,7 @@
 ### Freelance 
 
 
-Soy estudiante de ingenieria informatica desde hace dos años.
+Soy estudiante de ingenieria informatica desde hace tres años.
 
 
 ## 🛠️ Skills
