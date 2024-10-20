@@ -26,6 +26,8 @@ Soy estudiante de ingenieria informatica desde hace tres años.
 </br>
 Y alguna más...
 
+[![](https://visitcount.itsvg.in/api?id=filollan&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## Encuéntrame en:
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/miguel-%C3%A1ngel-llant%C3%A9n-62005a245/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Filollan)
