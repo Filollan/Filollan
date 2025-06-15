@@ -2,7 +2,8 @@
 ### Freelance 
 
 
-Soy estudiante de ingenieria informatica desde hace tres años.
+Estudiante de últimos semestres de Ingeniería Informática con más de un año de experiencia en desarrollo de software web. He participado en proyectos universitarios y freelance como desarrollador fullstack, utilizando tecnologías en el frontend como HTML, CSS, JavaScript, Angular, Bootstrap y Tailwind CSS; y en el backend como Node.js y Laravel. Manejo bases de datos relacionales como MySQL y Oracle, así como bases de datos NoSQL como MongoDB. Además, tengo experiencia en diseño de interfaces con Figma y conocimientos en metodologías ágiles.
+
 
 
 ## 🛠️ Skills
